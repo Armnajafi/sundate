@@ -1,8 +1,8 @@
 {
     "name": "sundate",
-    "version": "1.1.1",
+    "version": "1.1.2",
     "description": "A package for convert jalali to gregorian And conversely & write now date",
-    "main": "./src.sundate",
+    "main": "./src/sundate",
     "keywords": [
         "sundate",
         "date",
